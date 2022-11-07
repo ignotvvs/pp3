@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=n\ h\ w
+comment1.target=Person(java.lang.String,\ int,\ double)
+comment2.params=n
+comment2.target=Person(java.lang.String)
+comment3.params=h\ w
+comment3.target=void\ setWeightAndHeight(int,\ double)
+comment4.params=
+comment4.target=double\ calculateBMI()
+comment5.params=
+comment5.target=void\ displayRecord()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
