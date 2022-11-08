@@ -33,6 +33,7 @@ public class StudentGrades {
             System.out.println("Enter (comma separated) grade nr " + (n+1) + ": ");
             grades[n] = sc.nextDouble();
         }
+        sc.close();
     }
     
     public double lowestGrade() {
