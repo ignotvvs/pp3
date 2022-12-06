@@ -1,3 +1,5 @@
+
+
 public class Writer {
     private String name, surname;
     private int yearOfBirth;
@@ -20,8 +22,4 @@ public class Writer {
         return yearOfBirth;
     }
 
- 
-    public static void main(String[] args) {
-        
-    }
 }
